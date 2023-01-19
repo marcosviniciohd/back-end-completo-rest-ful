@@ -1,6 +1,8 @@
- ### Objetivo
+ ### Objetivo                       
  * Criar uma API RestFul para controle de produtos.
- ### Modelo
+ ### Modelo                             ✔️ 
  * Produto: id, nome, quantidade, valor, observacao.
- ### Repositorio de Produto
+ ### Repositorio de Produto             ✔️
  * obterTodos, obterPorId, adicionar, atualizar, deletar.
+### Serviço de Produto                  ✔️
+* obterTodos, obterPorId, adicionar, atualizar, deletar.
